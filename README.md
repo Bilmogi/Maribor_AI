@@ -1,8 +1,3 @@
-# mariborai
-Here’s a more polished and engaging version of your paragraphs for a GitHub README:
-
----
-
 # **Maribor AI**  
 ### **Preserving the Heritage, Empowering the Future**  
 
