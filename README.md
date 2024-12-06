@@ -41,19 +41,3 @@ With Maribor AI, users unlock a wealth of historical knowledge, fostering:
 - **Tourism Growth:** Empower visitors with unique perspectives on the region's history.  
 
 ---
-
-## **⚠️ Key Challenges**  
-
-1. **📚 Content Curation:**  
-   Sourcing, verifying, and organizing authentic historical content demands meticulous effort to ensure accuracy and inclusivity.  
-
-2. **📶 Dependency on Connectivity:**  
-   Reliable WiFi access is essential for Maribor AI’s seamless operation, especially for users on the go.  
-
----
-
-Maribor AI strives to be more than a system—it’s a bridge to the past, a guide for the present, and an inspiration for the future.  
-
----  
-
-Feel free to further customize this! 😊
