@@ -21,7 +21,7 @@ Maribor AI is built to educate, inform, and inspire. Its mission is to provide u
 ---
 
 ## **🎯 Vision Statement**  
-Maribor AI envisions itself as a guardian of Maribor and Slovenia's historical narratives, fostering a deep connection to cultural roots while promoting education and tourism. By making this treasure trove of knowledge accessible, we aim to enhance community identity, inspire curiosity, and attract global interest.  
+Maribor AI envisions itself as a AI of Maribor and Slovenia's historical narratives, fostering a deep connection to cultural roots while promoting education and tourism. By making this treasure trove of knowledge accessible, we aim to enhance community identity, inspire curiosity, and attract global interest.  
 
 ---
 
@@ -41,3 +41,6 @@ With Maribor AI, users unlock a wealth of historical knowledge, fostering:
 - **Tourism Growth:** Empower visitors with unique perspectives on the region's history.  
 
 ---
+
+## **Important Note ⚠️**
+This AI project is a "Proof of Concept". It has basic design & functionalities .
